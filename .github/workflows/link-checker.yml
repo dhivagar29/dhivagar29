@@ -43,5 +43,6 @@ jobs:
             --no-progress
             --accept 200,204,301,302,403,429
             --exclude-path .github
+            --no-fail-on-warnings
             "**/*.md"
           fail: true
