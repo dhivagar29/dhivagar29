@@ -1,0 +1,85 @@
+name: README Validation
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - "README.md"
+  pull_request:
+    branches: [main, master]
+    paths:
+      - "README.md"
+  schedule:
+    # 7:00 AM IST = 1:30 AM UTC
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-readme:
+    name: Validate README
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check README exists and is non-empty
+        run: |
+          if [ ! -f README.md ]; then
+            echo "::error::README.md not found"
+            exit 1
+          fi
+
+          FILE_SIZE=$(stat -c%s README.md)
+          if [ "$FILE_SIZE" -eq 0 ]; then
+            echo "::error::README.md is empty"
+            exit 1
+          fi
+
+          echo "README.md found (${FILE_SIZE} bytes)"
+
+      - name: Validate HTML tags are balanced
+        run: |
+          echo "Checking for balanced div tags..."
+          OPEN_DIVS=$(grep -oi '<div' README.md | wc -l)
+          CLOSE_DIVS=$(grep -oi '</div>' README.md | wc -l)
+
+          if [ "$OPEN_DIVS" -ne "$CLOSE_DIVS" ]; then
+            echo "::error::Unbalanced <div> tags: ${OPEN_DIVS} opening vs ${CLOSE_DIVS} closing"
+            exit 1
+          fi
+
+          echo "HTML div tags are balanced (${OPEN_DIVS} pairs)"
+
+      - name: Validate image references
+        run: |
+          echo "Checking image URLs are accessible..."
+          FAIL=0
+
+          # Extract image URLs from markdown and HTML img tags
+          grep -oP '(?:!\[.*?\]\(|src=")(\K[^)"]+)' README.md | while read -r url; do
+            if [[ "$url" == http* ]]; then
+              STATUS=$(curl -o /dev/null -s -w "%{http_code}" --max-time 10 "$url" || echo "000")
+              if [[ "$STATUS" =~ ^(000|5[0-9]{2})$ ]]; then
+                echo "::warning::Image may be unreachable (HTTP ${STATUS}): ${url}"
+              else
+                echo "OK (HTTP ${STATUS}): ${url}"
+              fi
+            fi
+          done
+
+          echo "Image reference check complete"
+
+      - name: Check README file size
+        run: |
+          MAX_SIZE=51200  # 50 KB
+          FILE_SIZE=$(stat -c%s README.md)
+
+          if [ "$FILE_SIZE" -gt "$MAX_SIZE" ]; then
+            echo "::warning::README.md is large (${FILE_SIZE} bytes). Consider optimizing for faster loading."
+          fi
+
+          echo "README size: ${FILE_SIZE} bytes"
