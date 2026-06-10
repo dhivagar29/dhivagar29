@@ -1,0 +1,33 @@
+name: Metrics Dashboard
+
+on:
+  schedule:
+    # Daily, 9:30 AM IST = 4:00 AM UTC
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    name: Generate metrics dashboard
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          # METRICS_TOKEN: classic PAT with no scopes (public data only),
+          # added as a repository secret — GITHUB_TOKEN is too limited here
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: dhivagar29
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year

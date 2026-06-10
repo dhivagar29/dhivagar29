@@ -321,10 +321,36 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 
 <br>
 
+<!-- ═══════════════════════════ ACTIVITY FEED ═══════════════════════════ -->
+
+<div align="center">
+  <h2>📡 Live Activity Feed</h2>
+</div>
+
+<br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 
 <div align="center">
   <h2>📈 Telemetry</h2>
+</div>
+
+<br>
+
+<div align="center">
+
+**🟢 This repo's own pipeline — secured & monitored**
+
+[![Markdown Lint](https://github.com/dhivagar29/dhivagar29/actions/workflows/markdown-lint.yml/badge.svg?branch=main)](https://github.com/dhivagar29/dhivagar29/actions/workflows/markdown-lint.yml)
+[![Link Checker](https://github.com/dhivagar29/dhivagar29/actions/workflows/link-checker.yml/badge.svg?branch=main)](https://github.com/dhivagar29/dhivagar29/actions/workflows/link-checker.yml)
+[![README Validation](https://github.com/dhivagar29/dhivagar29/actions/workflows/readme-validation.yml/badge.svg?branch=main)](https://github.com/dhivagar29/dhivagar29/actions/workflows/readme-validation.yml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/dhivagar29/dhivagar29/badge)](https://scorecard.dev/viewer/?uri=github.com/dhivagar29/dhivagar29)
+
 </div>
 
 <br>
@@ -344,6 +370,17 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dhivagar29&theme=terminal&hide_border=true&background=0D1117&ring=00F0FF&fire=B026FF&currStreakLabel=00F0FF)](https://git.io/streak-stats)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/dhivagar29/dhivagar29/main/github-metrics.svg" alt="Metrics dashboard" width="80%">
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhivagar29/dhivagar29/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/dhivagar29/dhivagar29/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 

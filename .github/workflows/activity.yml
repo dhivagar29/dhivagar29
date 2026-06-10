@@ -1,0 +1,27 @@
+name: Activity Feed
+
+on:
+  schedule:
+    # Every 8 hours
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    name: Update recent activity
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+
+      - name: Update activity section in README
+        uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea # pinned master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update activity feed [skip ci]"
+          MAX_LINES: 6
