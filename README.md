@@ -330,6 +330,7 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 <br>
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#5](https://github.com/dhivagar29/beagle/pull/5) in [dhivagar29/beagle](https://github.com/dhivagar29/beagle)
 <!--END_SECTION:activity-->
 
 <br>
