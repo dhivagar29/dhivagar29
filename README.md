@@ -226,7 +226,7 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 </div>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/dhivagar29/beagle/pull/6) in [dhivagar29/beagle](https://github.com/dhivagar29/beagle)
+1. 🎉 Merged PR [#9](https://github.com/dhivagar29/dhivagar29/pull/9) in [dhivagar29/dhivagar29](https://github.com/dhivagar29/dhivagar29)
 <!--END_SECTION:activity-->
 
 ---
