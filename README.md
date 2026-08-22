@@ -1,56 +1,67 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0b0033,75:00f0ff,100:b026ff&height=190&section=header"/>
+<img width="100%" height="8" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=8"/>
 
 <div align="center">
 
 ```
-██████╗ ██╗  ██╗██╗██╗   ██╗ █████╗  ██████╗  █████╗ ██████╗
-██╔══██╗██║  ██║██║██║   ██║██╔══██╗██╔════╝ ██╔══██╗██╔══██╗
-██║  ██║███████║██║██║   ██║███████║██║  ███╗███████║██████╔╝
-██║  ██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║   ██║██╔══██║██╔══██╗
-██████╔╝██║  ██║██║ ╚████╔╝ ██║  ██║╚██████╔╝██║  ██║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+╔════════════════════════════════════════════════════════════════════╗
+║  CMD/CENTER · NODE dhivagar29 · TLS 1.3 · SIGNATURE VALID · LIVE   ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║   DHIVAGAR KAMARAJ                                                 ║
+║   Infrastructure Specialist — DevSecOps                            ║
+║   IBM  ·  Bengaluru, India  ·  10+ years                           ║
+║                                                                    ║
+║   $ ssh visitor@github.com/dhivagar29                              ║
+║   > ACCESS GRANTED — entering the secure pipeline.                 ║
+║                                                                    ║
+║   POSTURE  SHIFT-LEFT · ZERO-TRUST · PIPELINE HARDENED             ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
-### `> DevSecOps Engineer · Infrastructure Specialist @ IBM · 10+ Years · Bengaluru, India`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=720&height=28&lines=DevSecOps+%7C+Security+is+a+pipeline+stage%2C+not+an+afterthought;Shift-Left+%E2%97%80+SAST+%C2%B7+SCA+%C2%B7+Secrets+Scanning+%C2%B7+Policy-as-Code;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;Kubernetes+%C2%B7+Terraform+%C2%B7+Zero-Trust+Infrastructure;Securing+regulated+FinServ+clouds+%40+scale+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
-<br>
+<table>
+<tr>
+<td valign="top" width="34%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=720&lines=DevSecOps+%7C+Security+is+a+pipeline+stage%2C+not+an+afterthought;Shift-Left+%E2%97%80+SAST+%C2%B7+SCA+%C2%B7+Secrets+Scanning+%C2%B7+Policy-as-Code;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;Kubernetes+%C2%B7+Terraform+%C2%B7+Zero-Trust+Infrastructure;Securing+regulated+FinServ+clouds+%40+scale+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+**`SYS.ID`**
 
-<br>
+**Dhivagar Kamaraj**<br>
+Infrastructure Specialist — DevSecOps<br>
+IBM · Bengaluru, Karnataka, India<br>
+10+ years · Financial Services | Cloud Security | Platform Engineering
 
-![DevSecOps](https://img.shields.io/badge/MODE-DevSecOps-00F0FF?style=for-the-badge&labelColor=0d1117)
-![Shift Left](https://img.shields.io/badge/POSTURE-Shift--Left-B026FF?style=for-the-badge&labelColor=0d1117)
-![Zero Trust](https://img.shields.io/badge/TRUST-Zero-FF2965?style=for-the-badge&labelColor=0d1117)
-![Pipeline](https://img.shields.io/badge/PIPELINE-Hardened-00FF9C?style=for-the-badge&labelColor=0d1117)
+</td>
+<td valign="top" width="33%">
+
+**`SYS.MISSION`**
+
+**Nationwide Building Society**<br>
+Assisted Service · IBM, 2022–Present<br>
+Zero-trust AWS for UK banking
+
+</td>
+<td valign="top" width="33%">
+
+**`SYS.UPLINK`**
+
+[LinkedIn](https://linkedin.com/in/dhivagar-kamaraj)<br>
+[GitHub](https://github.com/dhivagar29)<br>
+Bengaluru, India
+
+</td>
+</tr>
+</table>
+
+`01 whoami` · `02 career` · `03 pipeline` · `04 arsenal` · `05 missions` · `06 creds` · `07 feed` · `08 telemetry`
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════ HANDSHAKE ═══════════════════════════ -->
+---
 
 <div align="center">
-
-```bash
-$ ssh visitor@github.com/dhivagar29
-> negotiating cipher suite .......... TLS 1.3 ✔
-> verifying host identity ........... signature valid ✔
-> scanning session for anomalies .... clean ✔
-> ACCESS GRANTED — entering the secure pipeline.
-```
-
+  <h2>01 · <code>whoami --verified</code></h2>
 </div>
-
-<br>
-
-<!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
-
-<div align="center">
-  <h2>🧬 <code>whoami --verified</code></h2>
-</div>
-
-<br>
 
 ```yaml
 identity:
@@ -81,15 +92,11 @@ education: "B.E. Computer Science — SRM Valliammai Engineering College, 2013"
 philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 ```
 
-<br>
-
-<!-- ═══════════════════════════ CAREER JOURNEY ═══════════════════════════ -->
+---
 
 <div align="center">
-  <h2>🛰️ Mission Log — Career Timeline</h2>
+  <h2>02 · Mission Log — Career Timeline</h2>
 </div>
-
-<br>
 
 <div align="center">
 
@@ -97,7 +104,7 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 2014 ─────────────────────────────────────────────────────────────► Present
 
  [M-Square]      [Sanmina SCI]    [Cognizant]     [Infosys]        [IBM]
- Network Admin   Programmer       Associate       Consultant       Infra Spec.
+   Network Admin   Programmer       Associate       Consultant       Infra Spec.
  May'14-Apr'16   May'16-Aug'18    Aug'18-Jun'20   Dec'20-Mar'22    Mar'22-Now
       │                │                │               │               │
   Hardened OS &   Multi-cloud      Containerized   Automated       Zero-trust
@@ -108,15 +115,11 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════ SECURE PIPELINE ═══════════════════════════ -->
+---
 
 <div align="center">
-  <h2>🛡️ The Pipeline I Build — Security at Every Gate</h2>
+  <h2>03 · The Pipeline I Build — Security at Every Gate</h2>
 </div>
-
-<br>
 
 <div align="center">
 
@@ -138,129 +141,33 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════ TECH ARSENAL ═══════════════════════════ -->
+---
 
 <div align="center">
-  <h2>⚔️ Tech Arsenal</h2>
+  <h2>04 · Tech Arsenal</h2>
 </div>
-
-<br>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
 
-**🔐 Security & Compliance**
+| Lane | Inventory |
+|:---|:---|
+| Security & Compliance | AWS IAM · AWS KMS · AWS Shield · AWS Config · Secrets Manager · HashiCorp Vault |
+| Pipeline Security | SonarQube (SAST) · Snyk (SCA) · Trivy (image scan) · OWASP ZAP (DAST) · Checkov (IaC) · OPA (policy-as-code) |
+| Cloud Platforms | AWS · Azure · GCP |
+| CI/CD & DevOps | Jenkins · GitHub Actions · Buildkite · Harness · TeamCity · IBM UrbanCode |
+| Infrastructure as Code | Terraform · CloudFormation · Ansible · Chef |
+| Containers | Kubernetes · Docker |
+| Languages & Scripting | Python · Bash · Go |
+| Detection & Observability | CloudWatch · CloudTrail · New Relic · Nagios |
+| Databases & SCM | Amazon RDS · DynamoDB · Git · GitLab · Bitbucket |
 
-![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![KMS](https://img.shields.io/badge/AWS_KMS-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Shield](https://img.shields.io/badge/AWS_Shield-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Config](https://img.shields.io/badge/AWS_Config-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-
-</td>
-<td align="center" width="34%">
-
-**🧪 Pipeline Security Toolchain**
-
-![SonarQube](https://img.shields.io/badge/SonarQube_·_SAST-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk_·_SCA-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy_·_Image_Scan-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP_·_DAST-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov_·_IaC_Scan-9046FF?style=for-the-badge)
-![OPA](https://img.shields.io/badge/OPA_·_Policy_as_Code-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-**☁️ Cloud Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**⚙️ CI/CD & DevOps**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Buildkite](https://img.shields.io/badge/Buildkite-14CC80?style=for-the-badge&logo=buildkite&logoColor=white)
-![Harness](https://img.shields.io/badge/Harness-00ADE4?style=for-the-badge)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
-![UrbanCode](https://img.shields.io/badge/IBM_UrbanCode-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-</td>
-<td align="center">
-
-**🏗️ Infrastructure as Code**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Chef](https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white)
-
-</td>
-<td align="center">
-
-**🐳 Containers & Orchestration**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**💻 Languages & Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-</td>
-<td align="center">
-
-**📡 Detection & Observability**
-
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-222222?style=for-the-badge)
-
-</td>
-<td align="center">
-
-**🗄️ Databases & SCM**
-
-![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-</td>
-</tr>
-</table>
 </div>
 
-<br>
-
-<!-- ═══════════════════════════ KEY MISSIONS ═══════════════════════════ -->
+---
 
 <div align="center">
-  <h2>🚀 Key Missions</h2>
+  <h2>05 · Key Missions</h2>
 </div>
-
-<br>
 
 ### 🏦 Nationwide Building Society — Assisted Service *(IBM, 2022–Present)*
 
@@ -271,8 +178,6 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 - 🛡️ Embedded security gates into CI/CD — vulnerabilities caught at commit, not in production
 - 📊 Real-time threat-aware monitoring with **CloudWatch**, **CloudTrail** & **Lambda** auto-remediation
 
-<br>
-
 ### 🏦 Citi Group — Treasury & Trade Solutions *(Infosys, 2020–2022)*
 
 > Securing and accelerating releases for a critical global banking platform
@@ -281,8 +186,6 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 - 🤖 Replaced error-prone manual ops with auditable open-source automation
 - 📋 Authored SOPs & runbooks around failure and incident-response scenarios
 - 🖥️ Maintained hardened high-availability clustered environments in a regulated FinServ landscape
-
-<br>
 
 ### 🏥 Cigna & Health Care Service Corporation *(Cognizant, 2018–2020)*
 
@@ -293,70 +196,53 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 - 🐳 Containerized workloads with **Docker** & **Kubernetes** on AWS/GCP, managing the full image lifecycle
 - 📦 Governed Docker Hub & private registry hygiene — no stale, unscanned images in production
 
-<br>
-
-<!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
+---
 
 <div align="center">
-  <h2>🏆 Credentials — Cryptographically Earned</h2>
+  <h2>06 · Credentials — Cryptographically Earned</h2>
 </div>
 
-<br>
-
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer | 📅 Year |
+| Certification | Issuer | Year |
 |:---|:---|:---:|
-| ☁️ AWS Certified Solutions Architect – Associate | Amazon Web Services | 2019 |
-| ☁️ AWS Certified Developer – Associate | Amazon Web Services | 2020 |
-| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services | 2019 |
-| 🔷 Microsoft Certified: Azure Fundamentals | Microsoft | 2020 |
-| 🧠 Microsoft Certified: Azure AI Engineer Associate | Microsoft | 2024 |
-| 🤖 Microsoft Certified: Azure AI Fundamentals | Microsoft | 2024 |
-| 📊 Microsoft Certified: Azure Data Fundamentals | Microsoft | 2024 |
-| 💼 IBM Consulting Way | IBM | 2023 |
-| 🏦 IBM Banking Industry Jumpstart | IBM | 2023 |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | 2019 |
+| AWS Certified Developer – Associate | Amazon Web Services | 2020 |
+| AWS Certified Cloud Practitioner | Amazon Web Services | 2019 |
+| Microsoft Certified: Azure Fundamentals | Microsoft | 2020 |
+| Microsoft Certified: Azure AI Engineer Associate | Microsoft | 2024 |
+| Microsoft Certified: Azure AI Fundamentals | Microsoft | 2024 |
+| Microsoft Certified: Azure Data Fundamentals | Microsoft | 2024 |
+| IBM Consulting Way | IBM | 2023 |
+| IBM Banking Industry Jumpstart | IBM | 2023 |
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════ ACTIVITY FEED ═══════════════════════════ -->
+---
 
 <div align="center">
-  <h2>📡 Live Activity Feed</h2>
+  <h2>07 · Live Activity Feed</h2>
 </div>
-
-<br>
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#6](https://github.com/dhivagar29/beagle/pull/6) in [dhivagar29/beagle](https://github.com/dhivagar29/beagle)
 <!--END_SECTION:activity-->
 
-<br>
-
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+---
 
 <div align="center">
-  <h2>📈 Telemetry</h2>
+  <h2>08 · Telemetry</h2>
 </div>
 
-<br>
-
 <div align="center">
 
-**🟢 This repo's own pipeline — secured & monitored**
+**This repo's own pipeline — secured & monitored**
 
 [![Markdown Lint](https://github.com/dhivagar29/dhivagar29/actions/workflows/markdown-lint.yml/badge.svg?branch=main)](https://github.com/dhivagar29/dhivagar29/actions/workflows/markdown-lint.yml)
 [![Link Checker](https://github.com/dhivagar29/dhivagar29/actions/workflows/link-checker.yml/badge.svg?branch=main)](https://github.com/dhivagar29/dhivagar29/actions/workflows/link-checker.yml)
 [![README Validation](https://github.com/dhivagar29/dhivagar29/actions/workflows/readme-validation.yml/badge.svg?branch=main)](https://github.com/dhivagar29/dhivagar29/actions/workflows/readme-validation.yml)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/dhivagar29/dhivagar29/badge)](https://scorecard.dev/viewer/?uri=github.com/dhivagar29/dhivagar29)
 
-</div>
-
-<br>
-
-<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -368,15 +254,9 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 </tr>
 </table>
 
-<br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dhivagar29&theme=terminal&hide_border=true&background=0D1117&ring=00F0FF&fire=B026FF&currStreakLabel=00F0FF)](https://git.io/streak-stats)
 
-<br>
-
 <img src="https://raw.githubusercontent.com/dhivagar29/dhivagar29/main/github-metrics.svg" alt="Metrics dashboard" width="80%">
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhivagar29/dhivagar29/output/github-contribution-grid-snake-dark.svg">
@@ -385,15 +265,11 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════ THREAT MODEL ═══════════════════════════ -->
+---
 
 <div align="center">
-  <h2>♾️ The DevSecOps Loop I Live By</h2>
+  <h2>The DevSecOps Loop I Live By</h2>
 </div>
-
-<br>
 
 <div align="center">
 
@@ -414,29 +290,17 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+---
 
 <div align="center">
-  <h2>🌐 Open a Secure Channel</h2>
+  <h2>09 · Open a Secure Channel</h2>
 </div>
-
-<br>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhivagar_Kamaraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivagar-kamaraj)
 [![GitHub](https://img.shields.io/badge/GitHub-dhivagar29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhivagar29)
 [![Location](https://img.shields.io/badge/📍_Bengaluru-India-FF5722?style=for-the-badge)](https://maps.google.com/?q=Bengaluru,India)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
 
 ```bash
 $ echo "10+ years of secure cloud infrastructure, one signed commit at a time."
@@ -445,11 +309,7 @@ $ echo "10+ years of secure cloud infrastructure, one signed commit at a time."
 $ exit 0  # zero vulnerabilities, zero excuses
 ```
 
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=dhivagar29&color=00f0ff&style=for-the-badge&label=PERIMETER+SCANS)
-
-<br>
 
 **"Shift left. Automate the toil. Sign everything. Trust nothing."**
 
@@ -457,4 +317,4 @@ $ exit 0  # zero vulnerabilities, zero excuses
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b026ff,50:00f0ff,100:050510&height=120&section=footer"/>
+<img width="100%" height="8" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:00F0FF,100:B026FF&height=8"/>
