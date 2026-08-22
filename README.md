@@ -1,3 +1,4 @@
+<!-- HUD lock-on: identity, posture, and uplink before the dossier -->
 <img width="100%" height="8" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=8"/>
 
 <div align="center">
