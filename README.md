@@ -226,7 +226,7 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/dhivagar29/dhivagar29/pull/9) in [dhivagar29/dhivagar29](https://github.com/dhivagar29/dhivagar29)
+1. 🎉 Merged PR [#1](https://github.com/dhivagar29/dog-names/pull/1) in [dhivagar29/dog-names](https://github.com/dhivagar29/dog-names)
 <!--END_SECTION:activity-->
 
 ---
