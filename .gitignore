@@ -1,0 +1,10 @@
+# Node
+node_modules/
+
+# lychee link-checker cache
+.lycheecache
+
+# Snake / metrics build artifacts
+dist/
+results.sarif
+github-metrics.svg
