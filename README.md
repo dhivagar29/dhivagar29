@@ -226,7 +226,7 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/dhivagar29/dog-names/pull/2#issuecomment-5461409720) in [dhivagar29/dog-names](https://github.com/dhivagar29/dog-names)
+1. 🎉 Merged PR [#1](https://github.com/dhivagar29/bot-org-map/pull/1) in [dhivagar29/bot-org-map](https://github.com/dhivagar29/bot-org-map)
 <!--END_SECTION:activity-->
 
 ---
