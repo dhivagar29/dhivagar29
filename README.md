@@ -226,7 +226,7 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/dhivagar29/dollar-bill-shop/pull/1) in [dhivagar29/dollar-bill-shop](https://github.com/dhivagar29/dollar-bill-shop)
+1. 🎉 Merged PR [#1](https://github.com/dhivagar29/dollar-bill-shop/pull/1) in [dhivagar29/dollar-bill-shop](https://github.com/dhivagar29/dollar-bill-shop)
 <!--END_SECTION:activity-->
 
 ---
