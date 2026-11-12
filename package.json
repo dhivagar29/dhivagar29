@@ -1,0 +1,16 @@
+{
+  "name": "dhivagar29-profile-readme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README for dhivagar29, with local checks mirroring the CI pipeline (markdown lint, link checking, README validation).",
+  "scripts": {
+    "lint:md": "markdownlint-cli2 \"**/*.md\" \"!node_modules\"",
+    "lint:links": "lychee --cache --max-cache-age 1d --verbose --no-progress --accept 200,204,301,302,403,429 --exclude-path .github --exclude-path node_modules --exclude \"raw.githubusercontent.com/dhivagar29/dhivagar29\" --exclude \"api.scorecard.dev\" --exclude \"github-readme-stats.vercel.app\" \"**/*.md\"",
+    "validate:readme": "bash scripts/validate-readme.sh",
+    "lint": "npm run lint:md && npm run validate:readme",
+    "check": "npm run lint:md && npm run validate:readme && npm run lint:links"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "0.23.2"
+  }
+}
