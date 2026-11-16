@@ -226,7 +226,7 @@ philosophy: "Automate everything. Secure by default. Trust nothing, verify all."
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/dhivagar29/sbom-diff/pull/1#issuecomment-6759937621) in [dhivagar29/sbom-diff](https://github.com/dhivagar29/sbom-diff)
+1. 💪 Opened PR [#1](https://github.com/dhivagar29/portfolio-v3/pull/1) in [dhivagar29/portfolio-v3](https://github.com/dhivagar29/portfolio-v3)
 <!--END_SECTION:activity-->
 
 ---
